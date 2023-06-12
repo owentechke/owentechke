@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @owentechke
-- 👀 I’m interested in Python projects
+- 👀 I’m interested in Python and PHP projects
 - 🌱 I’m currently learning AWS and cloud development in general
-- 💞️ I’m looking to collaborate on Python projects
+- 💞️ I’m looking to collaborate on Python and PHP projects
 - 📫 How to reach me: owendevs.com Twitter @saintowen
 
 <!---
